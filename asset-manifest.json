@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/polluted-cit/static/js/main.bd4e4c2b.chunk.js",
+    "main.js.map": "/polluted-cit/static/js/main.bd4e4c2b.chunk.js.map",
+    "runtime-main.js": "/polluted-cit/static/js/runtime-main.45037b09.js",
+    "runtime-main.js.map": "/polluted-cit/static/js/runtime-main.45037b09.js.map",
+    "static/css/2.764ccc25.chunk.css": "/polluted-cit/static/css/2.764ccc25.chunk.css",
+    "static/js/2.0bdac76c.chunk.js": "/polluted-cit/static/js/2.0bdac76c.chunk.js",
+    "static/js/2.0bdac76c.chunk.js.map": "/polluted-cit/static/js/2.0bdac76c.chunk.js.map",
+    "index.html": "/polluted-cit/index.html",
+    "precache-manifest.ae905391720410295dd39c2daba37082.js": "/polluted-cit/precache-manifest.ae905391720410295dd39c2daba37082.js",
+    "service-worker.js": "/polluted-cit/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/polluted-cit/static/css/2.764ccc25.chunk.css.map",
+    "static/js/2.0bdac76c.chunk.js.LICENSE.txt": "/polluted-cit/static/js/2.0bdac76c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45037b09.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.0bdac76c.chunk.js",
+    "static/js/main.bd4e4c2b.chunk.js"
+  ]
+}
